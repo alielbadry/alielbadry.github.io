@@ -389,7 +389,7 @@
     const KEY = "lool0x01:audio";
     const TARGET = 0.7;            /* bed level */
     const FADE = 1400;             /* fade-in on start */
-    const SRC = "assets/audio/ambient.mp3?v=3";
+    const SRC = "assets/audio/quran.mp3";
 
     let bed = null;
     let on = false;
