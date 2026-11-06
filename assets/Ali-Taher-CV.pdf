@@ -1,0 +1,128 @@
+%PDF-1.4
+%ASCII
+1 0 obj
+<< /Type /Catalog /Pages 2 0 R >>
+endobj
+2 0 obj
+<< /Type /Pages /Kids [3 0 R] /Count 1 >>
+endobj
+3 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 5 0 R >> >> /Contents 4 0 R >>
+endobj
+4 0 obj
+<< /Length 2112 >>
+stream
+BT
+1 0 0 1 56 760 Tm
+/F1 22 Tf
+(ALI TAHER) Tj
+0.5 0.2 0.85 rg
+1 0 0 1 56 730 Tm
+/F1 11 Tf
+(lool0x01  |  Bug Bounty Hunter) Tj
+0 0 0 rg
+0.35 0.35 0.35 rg
+1 0 0 1 56 710 Tm
+/F1 9 Tf
+(github.com/alielbadry   hackerone.com/lool0x01   linkedin.com/in/alielbadry365) Tj
+0 0 0 rg
+0.5 0.2 0.85 rg
+1 0 0 1 56 680 Tm
+/F1 11 Tf
+(SUMMARY) Tj
+0 0 0 rg
+1 0 0 1 56 662 Tm
+/F1 10 Tf
+(Full-time bug bounty hunter. I break the seam between what an application) Tj
+1 0 0 1 56 647 Tm
+/F1 10 Tf
+(shows you and what it will actually do for you - authorisation, sessions) Tj
+1 0 0 1 56 632 Tm
+/F1 10 Tf
+(and business logic, on the programs where the bar is highest.) Tj
+0.5 0.2 0.85 rg
+1 0 0 1 56 607 Tm
+/F1 11 Tf
+(RECOGNITION  \(reports accepted\)) Tj
+0 0 0 rg
+1 0 0 1 56 589 Tm
+/F1 10 Tf
+(Google VRP \(web & access control\) - Krisp - Circle - Hostinger) Tj
+1 0 0 1 56 574 Tm
+/F1 10 Tf
+(Mozilla - Acronis - HackerOne - Deezer) Tj
+0.5 0.2 0.85 rg
+1 0 0 1 56 549 Tm
+/F1 11 Tf
+(NUMBERS) Tj
+0 0 0 rg
+1 0 0 1 56 531 Tm
+/F1 10 Tf
+(53 reports submitted       15 programs recognised) Tj
+1 0 0 1 56 516 Tm
+/F1 10 Tf
+(08 bug classes             01 tool shipped) Tj
+0.5 0.2 0.85 rg
+1 0 0 1 56 491 Tm
+/F1 11 Tf
+(FOCUS) Tj
+0 0 0 rg
+1 0 0 1 56 473 Tm
+/F1 10 Tf
+(Broken access control \(IDOR / BOLA / BFLA\)) Tj
+1 0 0 1 56 458 Tm
+/F1 10 Tf
+(Authentication and session flaws) Tj
+1 0 0 1 56 443 Tm
+/F1 10 Tf
+(Business logic and race conditions) Tj
+1 0 0 1 56 428 Tm
+/F1 10 Tf
+(Multi-tenancy and trust boundaries) Tj
+1 0 0 1 56 413 Tm
+/F1 10 Tf
+(SSRF, OAuth / OIDC, injection and cloud exposure) Tj
+0.5 0.2 0.85 rg
+1 0 0 1 56 388 Tm
+/F1 11 Tf
+(TOOLING) Tj
+0 0 0 rg
+1 0 0 1 56 370 Tm
+/F1 10 Tf
+(Burp Suite - Caido - ffuf - Nuclei - Subfinder - httpx - Katana) Tj
+1 0 0 1 56 355 Tm
+/F1 10 Tf
+(Python - JavaScript - Docker - Linux - Git) Tj
+0.5 0.2 0.85 rg
+1 0 0 1 56 330 Tm
+/F1 11 Tf
+(PROJECTS) Tj
+0 0 0 rg
+1 0 0 1 56 312 Tm
+/F1 10 Tf
+(burpee-switch - multi-account Chromium extension \(MIT licence\)) Tj
+1 0 0 1 56 297 Tm
+/F1 10 Tf
+(github.com/alielbadry/burpee-switch) Tj
+1 0 0 1 56 282 Tm
+/F1 10 Tf
+(Google VRP write-up - published on LinkedIn) Tj
+ET
+endstream
+endobj
+5 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica >>
+endobj
+xref
+0 6
+0000000000 65535 f
+0000000016 00000 n
+0000000065 00000 n
+0000000122 00000 n
+0000000248 00000 n
+0000002412 00000 n
+trailer
+<< /Size 6 /Root 1 0 R >>
+startxref
+2482
+%%EOF

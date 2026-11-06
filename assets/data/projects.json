@@ -1,0 +1,43 @@
+{
+  "note": "Mix of published work and placeholder entries. Placeholders must claim no client work, CVE identifiers, bounty figures or case studies — replace each one before publishing.",
+  "items": [
+    {
+      "id": "burpee-switch",
+      "index": "01",
+      "title": "BURPEE-SWITCH",
+      "summary": "A container-style extension for Chrome, Brave, Edge and other Chromium browsers that keeps multiple accounts — work, personal, client — open in the same window, with a container, its own cookies, colour and label per tab. Adds optional login-storage isolation, per-site container rules, session restore, and an optional Burp Suite highlighter JAR that colours proxy history rows by container. Stays local: no accounts, cloud, analytics or telemetry. Open source under the MIT licence.",
+      "status": "Open source",
+      "placeholder": false,
+      "link": "https://github.com/alielbadry/burpee-switch",
+      "linkLabel": "View on GitHub",
+      "tags": ["JavaScript", "Browser extension", "Chrome", "Burp Suite"]
+    },
+    {
+      "id": "recon-toolkit",
+      "index": "02",
+      "title": "Recon automation toolkit",
+      "summary": "Add details — what the toolkit automates, which inputs it takes, what it outputs, and the one thing it does better than the tools it replaces.",
+      "status": "Add details",
+      "placeholder": true,
+      "tags": ["Python", "Automation", "Recon"]
+    },
+    {
+      "id": "burp-extensions",
+      "index": "03",
+      "title": "Burp Suite extension / BApp scripts",
+      "summary": "Add details — the extension's purpose, the Burp API surface it hooks, and a link to the repository or BApp store listing.",
+      "status": "Add details",
+      "placeholder": true,
+      "tags": ["Java", "Python", "Burp Extender API"]
+    },
+    {
+      "id": "public-writeups",
+      "index": "04",
+      "title": "Public write-ups",
+      "summary": "Add details — published, responsibly disclosed write-ups. Link each one, and keep unreported or in-progress research out of this list.",
+      "status": "Add details",
+      "placeholder": true,
+      "tags": ["Research", "Disclosure", "Writing"]
+    }
+  ]
+}

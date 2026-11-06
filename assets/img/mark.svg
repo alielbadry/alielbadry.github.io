@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" role="img" aria-label="lool0x01">
+  <defs>
+    <linearGradient id="g" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#7b3ff2"/>
+      <stop offset="1" stop-color="#b56bff"/>
+    </linearGradient>
+  </defs>
+  <!-- dark field that fills the circular brand slot -->
+  <circle cx="32" cy="32" r="32" fill="#0a0614"/>
+  <circle cx="32" cy="32" r="30.4" fill="none" stroke="#9a5cff" stroke-opacity="0.55" stroke-width="1.6"/>
+  <!-- inverted signal bars -->
+  <g fill="url(#g)">
+    <rect x="15" y="11" width="6" height="22" rx="3"/>
+    <rect x="25" y="11" width="6" height="34" rx="3"/>
+    <rect x="35" y="11" width="6" height="15" rx="3"/>
+    <rect x="45" y="11" width="6" height="27" rx="3"/>
+  </g>
+  <!-- the single finding pip -->
+  <circle cx="48" cy="45" r="3.4" fill="#ebfb10"/>
+</svg>

@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" role="img" aria-label="Ali Taher">
+  <!-- midnight security lab mark: an inverted “signal bar” over a violet field -->
+  <defs>
+    <linearGradient id="g" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#663af3"/>
+      <stop offset="1" stop-color="#af50ff"/>
+    </linearGradient>
+  </defs>
+
+  <rect width="64" height="64" rx="15" fill="#05060f"/>
+  <rect x="0.75" y="0.75" width="62.5" height="62.5" rx="14.25" fill="none" stroke="#af50ff" stroke-opacity="0.35" stroke-width="1.5"/>
+
+  <!-- inverted bars: they hang from the top instead of rising from a baseline -->
+  <g fill="url(#g)">
+    <rect x="15" y="12"  width="6" height="22" rx="3"/>
+    <rect x="25" y="12"  width="6" height="34" rx="3"/>
+    <rect x="35" y="12"  width="6" height="15" rx="3"/>
+    <rect x="45" y="12"  width="6" height="27" rx="3"/>
+  </g>
+
+  <!-- the single finding pip -->
+  <circle cx="48" cy="45" r="3.4" fill="#ebfb10"/>
+</svg>

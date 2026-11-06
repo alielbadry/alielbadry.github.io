@@ -1,0 +1,63 @@
+{
+  "updated": "2026-11",
+  "groups": [
+    {
+      "id": "vulnerabilities",
+      "label": "Vulnerabilities Found",
+      "filter": "Vulnerabilities",
+      "items": [
+        "IDOR",
+        "BOLA",
+        "BFLA",
+        "Privilege escalation",
+        "SSRF",
+        "XSS",
+        "CSRF",
+        "SQL injection",
+        "NoSQL injection",
+        "Authentication bypass",
+        "JWT & session flaws",
+        "OAuth / SSO misconfiguration",
+        "Cross-tenant data exposure",
+        "Business logic abuse"
+      ]
+    },
+    {
+      "id": "technical",
+      "label": "Technical Skills",
+      "filter": "Technical",
+      "items": [
+        "Web application pentesting",
+        "REST API security testing",
+        "GraphQL security testing",
+        "Authentication & session analysis",
+        "Access-control modelling",
+        "Recon & asset discovery",
+        "Burp Suite extension scripting",
+        "Python tooling",
+        "JavaScript code review",
+        "HTTP & protocol analysis",
+        "Cloud & SaaS configuration review",
+        "Threat modelling",
+        "Technical report writing"
+      ]
+    },
+    {
+      "id": "tools",
+      "label": "Tools I Use",
+      "filter": "Tools",
+      "items": [
+        "Burp Suite",
+        "Caido",
+        "Nmap",
+        "ffuf",
+        "Nuclei",
+        "Subfinder",
+        "Amass",
+        "Postman",
+        "mitmproxy",
+        "Docker"
+      ]
+    }
+  ]
+}

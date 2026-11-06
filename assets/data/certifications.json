@@ -1,0 +1,29 @@
+{
+  "note": "Certifications as supplied. Add issue dates or credential links to the items array when available.",
+  "items": [
+    {
+      "index": "01",
+      "issuer": "APIsec",
+      "title": "CASA",
+      "subtitle": "Certified API Security Analyst"
+    },
+    {
+      "index": "02",
+      "issuer": "APIsec",
+      "title": "API Penetration Testing",
+      "subtitle": "APIsec certification track"
+    },
+    {
+      "index": "03",
+      "issuer": "APIsec",
+      "title": "OWASP API Top 10",
+      "subtitle": "API security risk coverage"
+    },
+    {
+      "index": "04",
+      "issuer": "FIRST",
+      "title": "CVSS v4.0",
+      "subtitle": "Common Vulnerability Scoring System"
+    }
+  ]
+}
